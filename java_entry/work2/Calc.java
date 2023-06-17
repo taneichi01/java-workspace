@@ -1,5 +1,5 @@
 package clacapp.logics;
-
+import calcapp.logics.ClacLogic;
 
 public class Calc {
       public static void main(String[] args) {
